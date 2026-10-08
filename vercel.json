@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "simagang-mail",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

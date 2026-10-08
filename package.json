@@ -1,0 +1,8 @@
+{
+  "name": "simagang-tempmail",
+  "version": "1.0.0",
+  "description": "Private temporary email web interface backed by Cloudflare Worker",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
